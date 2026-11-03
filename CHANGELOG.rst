@@ -2,6 +2,12 @@
 Changelog for package rosidl_dynamic_typesupport
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.1 (2026-11-03)
+------------------
+* Use the SPDX identifier Apache-2.0 in package.xml license tags (`#19 <https://github.com/ros2/rosidl_dynamic_typesupport/issues/19>`_)
+* use C++ 20 in default. (`#18 <https://github.com/ros2/rosidl_dynamic_typesupport/issues/18>`_)
+* Contributors: Michael Carroll, Tomoya Fujita
+
 0.5.0 (2026-05-05)
 ------------------
 
